@@ -76,7 +76,7 @@ cd 레포명
   </tr>
   <tr>
 
-  <th>Payment <br> Card <br> 배포  <!-- 원희 -->
+  <th>Payment <br> Card <br> CI/CD Pipeline  <!-- 원희 -->
   <th>Order <br> Review</th> <!-- 채연 -->
   <th>Gemini AI <br> Product</th> <!-- 서우 -->
   <th>Region <br> Store</th> <!-- 창근 -->
