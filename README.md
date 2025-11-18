@@ -117,7 +117,7 @@ docker-compose up -d
       </a>
     </th>
     <th>
-      <a href="https://github.com/dkki4887" target="_blank">
+      <a href="https://github.com/dlchacha" target="_blank">
         이채연
       </a>
     </th>
@@ -142,7 +142,7 @@ docker-compose up -d
       <img src="https://github.com/Leewon2.png" width="150" alt="이원희 팀장">
     </td>
     <td>
-      <img src="https://github.com/dkki4887.png" width="150" alt="이채연">
+      <img src="https://github.com/dlchacha.png" width="150" alt="이채연">
     </td>
     <td>
       <img src="https://github.com/leeseowoo.png" width="150" alt="이서우">
